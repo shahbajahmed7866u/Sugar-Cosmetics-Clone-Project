@@ -1,11 +1,12 @@
 # Sugar Cosmetic Clone
-Here we are gonna Share Some Of The Experience we Faced During The First Project We had built. We are of Five members With the Team Name Called Avengers tried To Built An e-commerce Through what we have learned and With the guidance of the Masai tutors . Here we made A Replica of the Website SugarCosmetics it just fully for the Educational Purpose .
+Here we are gonna Share Some Of The Experience we Faced During The First Project We had built. We are of Five members With the Team tried To Built An e-commerce Through what we have learned and With the guidance of the Masai tutors . Here we made A Replica of the Website SugarCosmetics it just fully for the Educational Purpose .
 
 # Team Members :
-1.Salman Ajani.
-2.Rashmi Ranjan.
-3.Vishal.
-4.Shahbaj Ahmed.
+1.Shahbaj Ahmed.
+2.Salman Ajani.
+3.Rashmi Ranjan.
+4.Vishal.
+
 
 
 # Introduction
@@ -17,3 +18,7 @@ We started the project with discussing how to Build It more responsive to the us
 # Outcomes
 To be able to work on a project the team members must possess leadership qualities, he/she should be able to contribute ideas and be respectful to others.
 Overall, it was a surreal experience, and we look forward to many such challenges.
+
+# Live deployed URL
+
+[Sugar Cosmetics Netlify Link](https://lustrous-eclair-2f1c6d.netlify.app/index.html)
