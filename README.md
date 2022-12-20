@@ -21,4 +21,4 @@ Overall, it was a surreal experience, and we look forward to many such challenge
 
 # Live deployed URL
 
-[Sugar Cosmetics Netlify Link](https://lustrous-eclair-2f1c6d.netlify.app/index.html)
+[Sugar Cosmetics Netlify Link](https://sugarcosmeticsshahbajahmedfw180275.netlify.app/)
